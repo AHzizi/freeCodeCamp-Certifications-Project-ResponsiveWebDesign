@@ -1,0 +1,27 @@
+
+/* Global styles */
+
+/* ... (other global styles) */
+
+/* Media query for screens with a maximum width of 768px */
+@media (max-width: 768px) {
+    #navbar {
+      width: 100%; /* Adjust the width for smaller screens */
+    }
+  
+    #main-doc {
+      margin-left: 0; /* Remove the left margin for smaller screens */
+    }
+  
+    .main-section {
+      margin-bottom: 20px; /* Reduce the margin for smaller screens */
+    }
+  
+    .main-section header {
+      font-size: 20px; /* Adjust header font size for smaller screens */
+    }
+  
+    .main-section p {
+      font-size: 14px; /* Adjust paragraph font size for smaller screens */
+    }
+  }
