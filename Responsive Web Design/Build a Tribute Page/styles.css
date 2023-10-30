@@ -1,0 +1,43 @@
+
+/* Style the main container */
+#main {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  /* Style the title */
+  #title {
+    font-size: 24px;
+  }
+  
+  /* Style the image container */
+  #img-div {
+    margin: 20px;
+  }
+  
+  /* Style the image */
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Style the image caption */
+  #img-caption {
+    font-style: italic;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  /* Style the tribute information */
+  #tribute-info {
+    text-align: justify;
+    margin: 20px;
+  }
+  
+  /* Style the tribute link */
+  #tribute-link {
+    text-decoration: none;
+    color: #007BFF;
+  }
